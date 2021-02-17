@@ -8,7 +8,7 @@ Estos son mis proyectos:
 
 + [remolquesjebla](https://remolquesjebla.com/) Una web de e-commerce en wordpress 
 
-+ [pinf](http://oscar.colorvamp.com/) Un repositorio para clasificar fotos por etiquetas.
++ [pinf](https://github.com/mykeres/morepinf) Un repositorio para clasificar fotos por etiquetas.
 
 
 Puedes encontrar el código de pinf en [github](https://github.com/mykeres/morepinf)
